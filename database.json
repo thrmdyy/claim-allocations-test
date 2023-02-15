@@ -86,6 +86,12 @@
                 "signature": "0x7985ae264af5afee95d503e1bcfef4137f5c6fc6242a7f9e6aba5b205baaf667d13b4279c66e6fc8e5ab0780c8ee8c0d8b4b8dea09a41bb5edd40150377d360b"
             }
         },
+        "0xbc0839c5a3d026dd7bb159de19f9a507c077c174": {
+            "airdrop": {
+                "amount": 789012341252,
+                "signature": "0xe0adf4e037e52cc5188bdb199069daa5ba868f69a144f83e829641f1091bc3fd69be71784847f59ecccd91ee7821bdd553e53a25ff9005e1b08322b17c59a100"
+            }
+        },
         "0xe3bae1d8df7b6820350939d2fb2d9e87938181bb": {
             "airdrop": {
                 "amount": 3333333333,
@@ -110,6 +116,10 @@
             "community": {
                 "amount": 1111111111111111111,
                 "signature": "0xaf5d04f6795414700bd7a2b227831cc929606193f2778621892eaf00ae5a4f407b857d221008c51f9c6fd19314ad017a1d9b3cedfd2528c9866407ca3e4db407"
+            },
+            "treasury": {
+                "amount": 1111111111111111111,
+                "signature": "0x204b3e02347e9dcae9b82518a129fa4eb30645147d6d7a5a25dca14edf50b37ecd47c315fe59a92c82909de6ac393536d0c62f3ed9fb17247529e4902dfff408"
             }
         },
         "0x62bb90e3699e6141a7ce2baafee7b4e408318e2c0be4c1a66efe78e1129ca30e": {
@@ -136,6 +146,10 @@
             "community": {
                 "amount": 22222222222222222,
                 "signature": "0xf089bfa9990514b8cee8a8427bc4bafab71e3a6dc1ec29ec691e4b8c8fdd73785e5a11e53d86def9e7bd91d0a042b13e3378527b1559baa55acf2042a6ca7e06"
+            },
+            "treasury": {
+                "amount": 22222222222222222,
+                "signature": "0x267268d6b46acb46d34ac7689eee7285220e0bc4bc6e01b82751f152f874a40bcef61ce1cea4b84e1e9eeb26a05780e05957ead58775b88998575113162ead02"
             }
         },
         "0x0effa559b7bd1b6de10544758291f78002ef1759": {
@@ -162,6 +176,10 @@
             "community": {
                 "amount": 98764532123412399,
                 "signature": "0x983e9f0305f979a5a3fd25f9dd07cca7b8a7e13d6f6066b80316abe9129bdd8508486cfeb0876bfcfd88c4a43667028ed1c597a4a32c067cd177e17822a8ab07"
+            },
+            "treasury": {
+                "amount": 8888888888888888888,
+                "signature": "0xa92c0fc8d7e23ec9d4dd2b0514654959c20d85b53fdf8a7fb78cc57c44a884bfc9f3d4b1d795107569b95f0a08813f461ce00249adef15391a385c0b501d110a"
             }
         },
         "0xa006710a84615ed745d0f4c7e0150e0c3fe6df3f9576c3271fde3a37a9f09341": {
@@ -188,6 +206,10 @@
             "community": {
                 "amount": 773333333333333123,
                 "signature": "0x0d53ea5f7936fb25829279d9c057496f60cf73ee2e5319537c38f793b0dc93b2f92ce81e6f6759b175acfb8fe58fddc4926a5a3f63800c5e428c688ecaa94109"
+            },
+            "treasury": {
+                "amount": 666666666666666666,
+                "signature": "0xd5e0be67e6a452cbc599f61e312d757e98cbc4df16083a55e8e2259bf3d5a4c9d5af0ee6a4df4c33b1c99dd7fc93eabafe888ca54ea94871840862fdf069e101"
             }
         },
         "0xd887db332ad89473e93de3d82b5f8a1e53ed995c": {
@@ -214,6 +236,10 @@
             "community": {
                 "amount": 773333333333333123,
                 "signature": "0x0a34afc387fff5fe14357250b2f3b6086436576785c11ad0c713469598438092f084013bc6dbf088885bbe4a7dedc0e4949f345460d24c46f60590c11250fe00"
+            },
+            "treasury": {
+                "amount": 4444444444444444,
+                "signature": "0x6f5e0033985b41ceac85678068315fa734f74227ebb975ef38e4a497b0cbb82a1ee1de90e9df84e908b58366bf0e097fdf9a6c64aed73dacf1ba1f7bc17f1607"
             }
         },
         "0x096223775a806fbb1635b7558d84174914c86cf9d750b70ed5f458c52c43d43d": {
@@ -240,6 +266,10 @@
             "community": {
                 "amount": 99987645321234123,
                 "signature": "0x258632e5ca0417e4e4539e7ddacfc0e7ab532d6250992fba894f3847003e140e1046513d93890421469db5a91ffa061b537490dfdfb308264eccebd20bb65701"
+            },
+            "treasury": {
+                "amount": 55555555555555555,
+                "signature": "0xac84b5c3e03c0dbd8db93c5b481232b95715d8e9e9c02f75071c94e6ce04e2e10f514d8472616a18dabf35cd5aba4e12cae73c465f4b9d63f9f5346e3f510c01"
             }
         },
         "0x0833dadcc75d3e4b32827cc6b7031b19c7dadabf342ec0b4cee69b9d825fa0a0": {
