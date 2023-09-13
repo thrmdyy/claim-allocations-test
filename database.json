@@ -86,38 +86,68 @@
         },
         "0xe3bae1d8df7b6820350939d2fb2d9e87938181bb": {
             "airdrop": {
-                "amount": "3333333333",
-                "signature": "0x0f1607320a45a14e8b91e66378e2771dd958cedc3d2bf1e0746fd3ec0f334786fa362e928f02525b2de9624d79008054fa50a8ad0fdf47726b73d7d890c06c04"
+                "amount": "175175175",
+                "signature": "0x1e4b8b44d918a295d6af3ca2473a5148c527464b7ef5738b6d8563d4b23a8e9efe5fca7ce90ae44d2b116d36ac4454f4e18f1e56fc4bb54fd1718699e6dc5800"
             },
             "ido": {
                 "amount": "158837383",
                 "signature": "0x82f25eccd39e566b717808985faa9e9c5ef4d8548348ff552141f2fe1c31b55215be3e0868f4437c6ad0ce29279bc31943beacb5f615fe94cef6e533514f3208"
             },
             "investors": {
-                "amount": "1111111111111111168",
-                "signature": "0xb4e6be06769773d3abad425c2e632024b96483ffedf6f6e9c1b55c3515e02a5e01f67579516a859d53ac8e33c96959d296cdd54d917d534c8b8eefee4d41690f"
+                "amount": "1111111111111111",
+                "signature": "0x20a2009f38f9cb4e36867935cc16c377298e46c6badc46671155a3da1ebcfaa92b24b29990f3b5441e44ed8aee1d19465c7df4fe77b0f7debce27204bc51a00d"
             },
             "team": {
-                "amount": "1111111111111111168",
-                "signature": "0xb57e22b81a85e0cdff907172be401e9b784f8b005e361d3c385f056ca2d155c0aca111a82c29408a5eb21ac6366d78c9591c034c9ee8116486dd2ff973a3e20a"
+                "amount": "111111111111111",
+                "signature": "0x2c4ccf01d1e7727127f6a2f7b2063152d9f0af064968f16ee25cd5a603fe550dbf520756ccc0253a71c11a13e50b42eed18864882724c44f0122a2eadb8df308"
             },
             "adviser": {
-                "amount": "1111111111111111168",
-                "signature": "0xf3dd52a368f0b02aebc4cc54cbfeb18efba1f5b40aeb37e09652b718947dfdc1fb9fde76bb73ba3bf1d9dd5a5279d651157893d4458bb8e009ef011a9414d208"
+                "amount": "11111111111111",
+                "signature": "0x2f0c7ca1ab485218b9445b21f01fef61bf163bcf97ccd27701daadc1016d85fa7d48a33f12d7af24683f6b6099d77fa87ae29dffe627a55f4156995bad89c302"
             },
             "community": {
-                "amount": "1111111111111111168",
-                "signature": "0x226493e4fb5cbfdf547b6f90f0a34607fb39d882a5e8d74a5a1fdb39e35744a3ac30b3a83894de480c7def5cb90aa66aaa15e384871c1f22f05ccd792335c103"
+                "amount": "11111111111111",
+                "signature": "0xa1e2919876cc00a92f312a2025c450b104cdcc2166f09e9c7d3c58ae2f3b2217f9abf91ab7b1480af71f4ea7e43f1fc4ce04986a75ab8f305a03e6a91a56c803"
             },
             "treasury": {
-                "amount": "1111111111111111168",
-                "signature": "0xe78bb60490bd28a94ebdecd65635c5e742ef36967d14c1018bd329848351aa428dabc33f9559ba663fb28f21c65533e6049ecc8052b2aed8724528523e9abe04"
+                "amount": "11111111111111",
+                "signature": "0x01dfb1a52724b4da3856e94b2245f2ed3ec6558c46a5ab85c30bde2c0f257e49a353839da4a080c210d7620fa609010fb1867440f7b476fce2350ef494f99b02"
             }
         },
         "0x1614b35e98e321caf386da401517344229d8cdb0ea8b07a77afbbf60f12763f6": {
             "airdrop": {
                 "amount": "250000000000",
                 "signature": "0xe204682b350403265be6b32698f0dd8b4ea3a1f77e7d1de1b77dd94c63d956c8ab566ab092db7a2c2990e589c03d2417f24e97f67deb4c794e413e0c6d3a0605"
+            }
+        },
+        "0x4": {
+            "airdrop": {
+                "amount": "250000000000",
+                "signature": "0xb6071b58c99cb1519c98129a3f503080fd09a7c7eb470c52141197f9ef383c8d11c3c11313162ea3035e21cf0f7a2817117f7b91a0738364becea3c50347ef08"
+            },
+            "investors": {
+                "amount": "400",
+                "signature": "0x3b093a9a640bf83f4f1f073d6127eed4ff49665de1f66607c8650df58322ffb3755669b1640de8a3da04a5183075c3ee6b9b3670f1f69341a7bfeb2c124fae0c"
+            },
+            "team": {
+                "amount": "1000",
+                "signature": "0x44457832c7fc7cb1952fde18fe709825aa43eeb62fe18a2d2b6c76912b3fff653e889c5cb60483f370e8767ae3ae326ce95daeb6413f83074b36bd2f3912da04"
+            }
+        },
+        "0xac0dc10a34313355ec636efdbc48155e0541d89f": {
+            "airdrop": {
+                "amount": "100000000",
+                "signature": "0x6f1e9336e00449bf76b0759f7e59cdafbfeaffa74c490989f413d9ddf6dabea3dcb39875aa9a57bd61a8671a38d29d65b6b6708ccfd6d82d3531b68188d24e07"
+            }
+        },
+        "0x9ee45f4e163acec9da1a0baf8ccbe1cd7f0a245a": {
+            "airdrop": {
+                "amount": "1000",
+                "signature": "0x8236ac5313def3061fa98a0d8c221308e42a3cf76c49ffd08696e12a65d0d9b5f065a9596972b52e59e22a3a18825653c7f4bf4221b2acf933092209a6ef830d"
+            },
+            "ido": {
+                "amount": "12345678912",
+                "signature": "0x569b2d8eafe9156c094210d6d86e9cda36b5735bbeef4d087256efc4bae31fe6934d8141a025f2854f1acbba1d307a4472e3c92df159a130ee178a9c63109808"
             }
         },
         "0xbc0839c5a3d026dd7bb159de19f9a507c077c174": {
@@ -128,38 +158,38 @@
         },
         "0x62bb90e3699e6141a7ce2baafee7b4e408318e2c0be4c1a66efe78e1129ca30e": {
             "airdrop": {
-                "amount": "4444444",
-                "signature": "0x3e9576e9818707a06f430cceae1a6a225b407e9b1a25351852fe66f6ac3c530cad668ae2d8cac787fc13572e831b69a144f7b77bb5eb0feb8fbf79d598b47a07"
+                "amount": "23572357",
+                "signature": "0xfea7ca92383eebe2135ad0565857f5c2c6522b5918da9a6137ae1dc8f8eae54f7cc2c9cc2a0cc58f4c540d33664273a90ac11070a80accd6b193e48ecf1b6d03"
             },
             "ido": {
                 "amount": "40865424",
                 "signature": "0xc7be5e6ee8b26378b6aeb4dfa4888a4d8e651c9174b414485e42887549f59f233a051a02f190ae756bf77c679953e57ece3a518729fce37098ff8d0e73ee2908"
             },
             "investors": {
-                "amount": "22222222222222224",
-                "signature": "0xea3edf1b464d5af6eaae014fb139dfd2959fe9243d42d08d3113b6752ab357bbcc039463cbead64b72af910227aae8f22266f70396a8f6e8980087a3406f720e"
+                "amount": "22222222222222",
+                "signature": "0x587fdb38c7b9a487dd4b47e9600c99123989407e2beeb8ffcf6daaa80a835f131587c0c82ee037bfaa3e0cea6542f7ed93dca5f174a1a280f84d29f78fdec60b"
             },
             "team": {
-                "amount": "22222222222222224",
-                "signature": "0x2e954705825a4c342549b0c6c17219cc45c1e5707148e6844f207884540c97e9fccdd03f51e7d7f7f177ebcd0b08eb9076489ce040e55f8bdb92f05e86652d0f"
+                "amount": "2222222222222",
+                "signature": "0xd01ec01208283d39cd5fa3db749813c74faa6802df14b403abab70e8fcd86d3c34845efcfa70f277ff67467272830c9ab3c21166aaa8f8c9ed72990dec61aa07"
             },
             "adviser": {
-                "amount": "22222222222222224",
-                "signature": "0xbd984ff6515aba640f5125d29e968940041b799e5c06078073423e7c234eff299bf4fac988e02e4cb0c052c6caca568b958b9baf2a8e8ffa9355212a35335303"
+                "amount": "2222222222222",
+                "signature": "0xd0c9cb16a2965732767325037587ba9239358dbc6624123597082448e103d9c5cd09a29c8694da4b7f77720a825bfff208b3e968e5fe3c3311c2fbe5c228580f"
             },
             "community": {
-                "amount": "22222222222222224",
-                "signature": "0x70855c72e5985d43b4f45bf6684dd1fc469388d3ee5c14e4dbf7fcaf8edb12d79bf5e8034c449da873470bcf464d8b933b5f1422a17cfef3bae1b86ba07a9706"
+                "amount": "222222222222",
+                "signature": "0xb556a069e30a6b5a70359e3114c34f2951d31091595316b73ba7e58ff42c3ad9cf2f13b3b5d2d4f12e2e6c2a21eb1a63a2efe6e4f2cf0459060488cbf04ce806"
             },
             "treasury": {
-                "amount": "22222222222222224",
-                "signature": "0xbdf0b562b1877aaa8524b3b672988b52fd7d20c69cc5a5ebc7f79f5db81e73ea19d67214312840652e9a9916b7d01bdbadb12ef7571d4447b2bd983cd50c3009"
+                "amount": "222222222222",
+                "signature": "0x8eda39da311633716b77c2c76dbdf62ebc4bcbcbdcbcc29032984f0cd6ff07956f7efa97dc8a8038282d27bbca0432733c654bb112dfa712ef93b07936d28e04"
             }
         },
         "0x0effa559b7bd1b6de10544758291f78002ef1759": {
             "airdrop": {
-                "amount": "987645321234",
-                "signature": "0x358c1651db0ed0c915f7078b01288527034c43e6714980a18aef3b6d51323b3021bbbe7a71f99eac8b108b3c419504513e4e4fd97c34adfc2e46ab06b5fff90e"
+                "amount": "178494123",
+                "signature": "0x2b6c33c32126787877df8ce3ab2d91beedf52aa08cd3f53cdd62c678af62a84a8da0bf3fd31dcf22fc66ff34606f58f83f58ca58e9b8296b120e692ab2b67a05"
             },
             "ido": {
                 "amount": "178494123",
@@ -178,18 +208,18 @@
                 "signature": "0xea9879387da31173792d9c63b003707b6c69038bed46f978693ff18cf6f066316a51595e847d3f7bed83db97ebe87bb0633249a0e95eb19aa87f000bde2e420a"
             },
             "community": {
-                "amount": "98764532123412400",
-                "signature": "0x0f3fb4c21970405f0e455cee0d5fc56afbbde1f5c47fb691ac2248b7ddfeb39acbd63c45c4eb4ea2b3e7fb04c7b1a61e5d2e4623644a1306a9ad0a7981009508"
+                "amount": "987645321234",
+                "signature": "0x985ae68c35f9459650dcde93f096c03b58b20d25ec5714ec7566512ecbd8c6c18c2cadfccb204e4671a2dc578a3ef965ca0a7eb2229d6a940a519e2ec0453b0f"
             },
             "treasury": {
-                "amount": "8888888888888889344",
-                "signature": "0x61ad69c565883c42cd0fb706ea154048cb15863d935d45c0ad06e922199b3fd84cb9b95c9b5676b0610e7f73d487b4387b96d08194ea9676e549780f49f58f0d"
+                "amount": "88888888888888",
+                "signature": "0x7884a87232b490e3bba9ee53acd2d82d95dc50b341f224e9a7ffa593408916cb46f50f833e7f9fa37670f4d85d681d62e317f85165af362d31a73dd30848990a"
             }
         },
         "0xa006710a84615ed745d0f4c7e0150e0c3fe6df3f9576c3271fde3a37a9f09341": {
             "airdrop": {
-                "amount": "3333333333333",
-                "signature": "0x093181cfe669230709bcbb5b0c8632bffd08cec14b4a386c95647cd305b63a7cb8b084ea7d1e8ed1bb2415e034be6da8d0d9f4a64b9ba066d12a090dfbd1f30a"
+                "amount": "10000000000",
+                "signature": "0x3c230de235551825ef4cd76108f5529e8eeec7e57d43007bd22e0a54a97aba1d56cb1bf8b7b09b89033f899e340dc73b2a126276fc5a6984cbb90e55c2991d01"
             },
             "ido": {
                 "amount": "10000000000",
@@ -208,18 +238,18 @@
                 "signature": "0x50e2781161ce9dce0b793e012dd62ee58842735bc9461875b01d9c67071d5deec4cc1331e359bc64a645b209fe0783ddaa3a9821797c8b28fc10a587dbd2e00b"
             },
             "community": {
-                "amount": "773333333333333120",
-                "signature": "0xeed332dfbb50649ac9020f8b7922f51cfc1ef1baacf1c34afb0a740419feb3579f15f63d9a1b19e70343134f05502ab49863f6bcd9cb34734892fd7238aeb10b"
+                "amount": "7733333333",
+                "signature": "0x2a256acec377b7f17012a81e0094f8b5fc4e9f9dd1a945b355b7dd5ac50d0394af03e6e2928b61b37ab2b1ced9e971a2270ea48a6a893ea12e0129b402139a04"
             },
             "treasury": {
-                "amount": "666666666666666624",
-                "signature": "0xc452ae391cf9faaa736d9624d120f31f9285e8778068369cb898c481162d8fa1b5ef4de0a2740bb86cce1b577604dfcdb3b370ab6fd4241e84bc1daeddbdf304"
+                "amount": "66666666666666",
+                "signature": "0x0981dfa9a4eeba8964adef512e8562a00f1109e2a69fd16c269618f3c125074572c2d4c30566b685af127dec02d436422218c9a73546e4eeb564e89839944208"
             }
         },
         "0xd887db332ad89473e93de3d82b5f8a1e53ed995c": {
             "airdrop": {
-                "amount": "3333333333333",
-                "signature": "0x57dca9f9eef5de5983585a038e3377b461cec8dbf84864fffc09baa461b10384da92c9843fc05a382d0a046064f7e965cd5c259887c0b91805ab314c8620460a"
+                "amount": "10000000000",
+                "signature": "0x5bcdbc8de8a8276d8f28e528019d909cea1b85eeba3955936f6f8bb8be4eb7ffea67d0952efe66d8bf3153a8337050d68baa95c9799ed90c6da864494cb53a00"
             },
             "ido": {
                 "amount": "353354124710",
@@ -238,18 +268,18 @@
                 "signature": "0x8c3e6800444f8fc0297512e1a21fa685d1509e9ad3fc9add94474cdeda580a3b0d4616080848de7cca06a79a3c4fc1cb0d01861c95eb410a3e5fb1db25593501"
             },
             "community": {
-                "amount": "773333333333333120",
-                "signature": "0xca40b672acc27a0651418f02dcb10f0cb04a25612eee0ecc18a066b9c039480c9e24fcc12055d538e6960378be89c9ba8cf5e155836e27f32dd2683e302fe50b"
+                "amount": "773333333333",
+                "signature": "0x2c71e5a65aee2bc5ab8cbdde7faa3c0634146d0f96080ac01450e8cd246c9210efac7da08e6a2d6fa296bc11e5693be077cbc55e930d9064993063c5d345e808"
             },
             "treasury": {
-                "amount": "4444444444444444",
-                "signature": "0xf3ecd380cd484336a9853b6ede1a2673d96bed2a40a0b433b4a53ca24ea6934798b078d25669f9a073ec7813fb401d5c670fc8bb87e54f9ba205975cb84a4406"
+                "amount": "44444444444",
+                "signature": "0x16df340f9bdde9cb7f320dfd4ee72920095fb8f81108428d2b323707315090c5fd1129ecf30f93b72a5327e1fc15d2b589ee6f8b7ecdc377a7f0f3b70fadc808"
             }
         },
         "0x096223775a806fbb1635b7558d84174914c86cf9d750b70ed5f458c52c43d43d": {
             "airdrop": {
-                "amount": "987645321234",
-                "signature": "0xdad8b8a32a1e1f36932640fbb206d28b69ca08a8dd0b3f672650a9f03f05826bfbb16bf449b8fe20165033daee55888918a5b23045b2a1daa3f8a5682313620d"
+                "amount": "22854405102",
+                "signature": "0xf458f039608c65d70affe6ec8b0331c83050e8855b9500cb50b011f19da46774dd106fd5d479b606dbebb725f776010e744a20d34d6512cc113f99355792f00e"
             },
             "ido": {
                 "amount": "22854405102",
@@ -272,8 +302,38 @@
                 "signature": "0x598df40488cc9225231ecd288750496dd41701fd7231c9eb1332b3a9b4e14b038ea91e1e19a28bc7b9ca62ebca74e00de87b44c363e20033799cb3c2311a440f"
             },
             "treasury": {
-                "amount": "55555555555555552",
-                "signature": "0x16c077fcce16976ea3eae95252ec7729ab30d790e9aa89628b8822cd1590060a27531fd350d76b6a186d005b9714189e7324b775f520c7ddf38765b17e2f3908"
+                "amount": "555555555555",
+                "signature": "0x4a3afbb82f02997574ed130f4ea514bf1deb6b8cfd06db9740b966d2dafd384a6cc6dfb320c391dce0f1168b1184be3b303638334a2107eb1d008285068b070a"
+            }
+        },
+        "0x10edabbe72b615c3d4a3a27794b01ecf273413ef9c4abd9e871705d63c1d35a1": {
+            "airdrop": {
+                "amount": "1000",
+                "signature": "0x5fda78aabf7c0e11d1adc935741f6770cb1909a3af7444b30fc6ad9bd3b429a7f9608b75fd586babf53934d15711d1d2b5e5bf6335baa952e03e38a1c29d0607"
+            },
+            "ido": {
+                "amount": "12345678912",
+                "signature": "0x5e9a9b85e86d1f935f6aae6e97dcfe5b2043c9a30fdec4f1d4525586a1ae8b34b43d2d4e1a453f02a012c314522be3de4790b0031c404033cb3bb11367976c02"
+            },
+            "investors": {
+                "amount": "123456789123",
+                "signature": "0xfe55d85baa99d9c6147219d06027c2d40dbd601895227457d1a24f30d01614cebe355407271e5139859e1ae7fb2069b5d4b53294757ac6c23200d79f5b44f600"
+            },
+            "team": {
+                "amount": "123456789123",
+                "signature": "0x73c807b4e7ea454a519361d0a49f6b8edc5ac0f51afa599b79cf604ee0de600966741813290ab91f7cdc24a8ee74c6dfbd1bc5e1d229b3a202f4e8d49241ab0c"
+            },
+            "adviser": {
+                "amount": "30000000000000",
+                "signature": "0x9f88e92366cc7b04bc5dd9dd68ae4501b617e77b9e68e660f06926a3bc7422f4e26b929034f208aa60d8bfc1daca7e3fc1b8b4589ee48f4c84518a823d57220b"
+            },
+            "community": {
+                "amount": "1000000000",
+                "signature": "0x5f0466ef45a630d8cba488559528e70c37cb3874047b7d463af73a6816e7a4800caeb73a2d0d7137c8d9aca097a73cd2d3dbb5294489184e91c1c926ec04a905"
+            },
+            "treasury": {
+                "amount": "222222222222",
+                "signature": "0xad537f8a4765d527435311b70f3f5885a7187fbb1b8f25171fa1f70c36b5d4288e99c1f4013482572cd9537fb36d11861cd3415745bbb22aee2b5d33ce49b20e"
             }
         },
         "0x0833dadcc75d3e4b32827cc6b7031b19c7dadabf342ec0b4cee69b9d825fa0a0": {
@@ -33162,16 +33222,6 @@
                 "signature": "0x1a3f038d031578d64e9d9d129e399ba7811f95cda3270fa9cf1a2ad65c7fc3306b96f042121860b80d9e7ff672bb7b537522af6fd459c7e6bcaf1374b57cbb07"
             }
         },
-        "0x4": {
-            "investors": {
-                "amount": "400",
-                "signature": "0x3b093a9a640bf83f4f1f073d6127eed4ff49665de1f66607c8650df58322ffb3755669b1640de8a3da04a5183075c3ee6b9b3670f1f69341a7bfeb2c124fae0c"
-            },
-            "team": {
-                "amount": "1000",
-                "signature": "0x44457832c7fc7cb1952fde18fe709825aa43eeb62fe18a2d2b6c76912b3fff653e889c5cb60483f370e8767ae3ae326ce95daeb6413f83074b36bd2f3912da04"
-            }
-        },
         "0xb98fc043fe8860cec56c5d50a78ebe5b3e994a55845f87a53273f485bccb2a86": {
             "investors": {
                 "amount": "83333300000000",
@@ -33196,14 +33246,10 @@
                 "signature": "0xdf497ddbf82d995d74ba70f5dc5d139be6d5a007de3b46db3c674c010398aefa8a1b7cd78cbae78760c1dc13af27de74ed3d4f5605452cdab408761d36af7a00"
             }
         },
-        "0x5": {
+        "0xf36d1497c8a1f205ffb0756063ca4c16f06351d836aced39d1722ca98c33cc8c": {
             "investors": {
                 "amount": "41666700000000",
-                "signature": "0x7a3eb1b2c303e82dfaf8baa1407de994848bde6c2e7d7d945c7de5534b455e7bf89cb5f8c0bafd755598d234fa3188dc4b32b362e930e4afd831495854376c05"
-            },
-            "team": {
-                "amount": "1000",
-                "signature": "0x5d3dc90ef2b3d984e56e73f96a9429f4778c08423b392c13ca51157edb1ee923721c30ac7c499bb0a6402de578b9fa321b47bf2d5f9e9149412da0813df8710e"
+                "signature": "0x101fc9aafde7a2bbc387241cd18e00bc5849c52268ca8e50525c99ae9265b322ee8f355a2213a1c33a83a75fd431f29fdc38a49f123cda922f190003637f5703"
             }
         },
         "0xb9c3c916f5e4c5ff4bb7005e8b68f4568a2c73081b258e84017e91f99499be13": {
@@ -33238,6 +33284,12 @@
             "investors": {
                 "amount": "12500000000000",
                 "signature": "0xbd6de27f77836a07db78005be24a18efea91448eda34649d0825806750f2d2a36b4e12fa7ab7ccec8989e57421b9a4136c2354882ac08f0c3a36d9ed4d4c170c"
+            }
+        },
+        "0x5": {
+            "team": {
+                "amount": "1000",
+                "signature": "0x5d3dc90ef2b3d984e56e73f96a9429f4778c08423b392c13ca51157edb1ee923721c30ac7c499bb0a6402de578b9fa321b47bf2d5f9e9149412da0813df8710e"
             }
         },
         "0x6": {
